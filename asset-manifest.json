@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/luh-presente-aniversario/static/css/main.6eb84c38.css",
+    "main.js": "/luh-presente-aniversario/static/js/main.004634ef.js",
+    "index.html": "/luh-presente-aniversario/index.html",
+    "main.6eb84c38.css.map": "/luh-presente-aniversario/static/css/main.6eb84c38.css.map",
+    "main.004634ef.js.map": "/luh-presente-aniversario/static/js/main.004634ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6eb84c38.css",
+    "static/js/main.004634ef.js"
+  ]
+}
