@@ -14,7 +14,7 @@
     "react-swipeable": "^7.0.2",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://RianRBPS.github.io/luh-presente-aniversario",
+  "homepage": "https://rianrbps.github.io/luh-presente-aniversario/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
